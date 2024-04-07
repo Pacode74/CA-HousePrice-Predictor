@@ -1,6 +1,6 @@
 ![Data Preprocessing & Feature Engineering for Machine Learning - Predicting House Prices in California](./support_files/readme_image.jpg)
 
-This project come from "The Complete Pandas Bootcamp 2023 - Data Science with Python", a course offered by Udemy
+This project comes from "The Complete Pandas Bootcamp 2023 - Data Science with Python", a course offered by Udemy
 and taught by Alexander Hagmann. 
 
 The dataset for this project comes from the instructor.
@@ -24,7 +24,7 @@ While integrating these steps into a scikit-learn pre-processing pipeline is com
 # Data Preprocessing & Feature Engineering for Machine Learning - Predicting House Prices in California
 
 ## Contents
-- [1. Project Introduction](#1-project-introduction)
+- [(1) Project Introduction](#1-project-introduction)
 - [2. Data Import and Inspection](#2-data-import-and-inspection)
   - [2.1 Initial Overview and Some Cleaning Recommendations](#21-initial-overview-and-some-cleaning-recommendations)
 - [3. Data Cleaning](#3-data-cleaning)

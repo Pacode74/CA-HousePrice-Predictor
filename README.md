@@ -21,9 +21,7 @@ The primary emphasis will be on:
 
 While integrating these steps into a scikit-learn pre-processing pipeline is common for ongoing machine learning operations, for a one-off project like ours, employing straightforward Pandas code for data manipulation and preparation is equally effective. 
 
-[View the Jupyter Notebook](https://github.com/Pacode74/CA-HousePrice-Predictor/blob/master/MachineLearning_Predict_House_Prices.ipynb)
-
-[View in nbviewer](https://nbviewer.jupyter.org/github/Pacode74/CA-HousePrice-Predictor/blob/master/MachineLearning_Predict_House_Prices.ipynb)
+[View this notebook with interactive links on nbviewer](https://nbviewer.org/github/Pacode74/CA-HousePrice-Predictor/blob/master/MachineLearning_Predict_House_Prices.ipynb)
 
 
 # Data Preprocessing & Feature Engineering for Machine Learning - Predicting House Prices in California

@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-autopep8 = "*"
 python-dateutil = "*"
 numpy = "*"
 pandas = "*"
@@ -16,10 +15,8 @@ lxml = "*"
 scikit-learn = "*"
 pyarrow = "*"
 folium = "*"
-jupyter = "*"
 jupyterlab = "*"
 ipykernel = "*"
-jupyter-nbextensions-configurator = "*"
 
 [dev-packages]
 
